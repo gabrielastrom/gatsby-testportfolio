@@ -2,37 +2,30 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "title": "Gabriel's Portfolio",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "description": "A portfolio displaying recent projects, experience etc. Enjoy.",
+    "author": "Gabriel Åström",
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
-    "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
-    }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Gabriel's Portfolio" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
+        { "label": "My Projects", "url": "/blog" },
         { "label": "Features", "url": "/#features" },
         { "label": "Github", "url": "/#github" }
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
+        "label": "Resume (CV)",
         "url": "/resume.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "About", "url": "/#about" },
+        { "label": "Linkedin", "url": "/#linkedin" }
       ]
     },
     "featureToggles": {
